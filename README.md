@@ -292,6 +292,17 @@
   </tr>
   <tr>
     <td style="text-align: center; padding: 10px">
+      <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+        <img
+          src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"
+          alt="pytorch"
+          width="40"
+          height="40"
+          style="background-color: white"
+        />
+      </a>
+    </td>
+    <td style="text-align: center; padding: 10px">
       <a href="https://opencv.org/" target="_blank" rel="noreferrer">
         <img
           src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"
@@ -337,6 +348,18 @@
         />
       </a>
     </td>
+  </tr>
+    <tr>
+    <td style="text-align: center; padding: 10px">
+      <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+        <img
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+          alt="docker"
+          width="40"
+          height="40"
+          style="background-color: white"
+        />
+      </a>
   </tr>
 </table>
 <p align="center">
